@@ -1,4 +1,4 @@
-const key= 'jCT8yPuHIQwHAPNE6x8opzElCc3j35LK';
+const key= 'GxOTbGsLrAHotBn8YNCYGiebv1Kvk4kl';
 
 // get city details
 
